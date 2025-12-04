@@ -1,0 +1,5 @@
+com\victor\config\JwtDecoderConfig.class
+com\victor\config\GatewayCorsConfig.class
+com\victor\config\CorsProperties.class
+com\victor\config\RouteConfig.class
+com\victor\GatewayApplication.class
