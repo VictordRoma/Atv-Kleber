@@ -115,9 +115,3 @@ docker build -t <nome_da_imagem>:latest .
 ```
 docker-compose up -d
 ```
-
----
-
-## 📄 Observação
-
-Este projeto é uma versão em Python inspirada em uma arquitetura modular com foco em escalabilidade, log centralizado e comunicação assíncrona.
